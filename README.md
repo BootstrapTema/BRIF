@@ -3,9 +3,9 @@
 ### <a href="https://cdn.rawgit.com/BootstrapTema/BRIF/master/index.html" target="_blank">Демо</a>
 #### Подключение:
 <pre>
-<script>
+&lt;script&gt;
 $(function(){
-$('.container').brif();
+ $('.container').brif();
 });
-</script>
+&lt;/script&gt;
 </pre>
